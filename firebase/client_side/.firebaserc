@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "client-app-360c"
+  },
+  "targets": {
+    "multiple-demo-f150d": {
+      "hosting": {
+        "client": [
+          "client-app-360c"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

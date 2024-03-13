@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1090546170438",
+    "project_id": "multiple-demo-f150d",
+    "storage_bucket": "multiple-demo-f150d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090546170438:android:1324eb724de58e35386847",
+        "android_client_info": {
+          "package_name": "com.example.client_side"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoKRDTTjV_U_TjU8Yn2E5b9_DFwId_w14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

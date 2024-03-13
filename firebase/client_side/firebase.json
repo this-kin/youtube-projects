@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "public": "build/web",
+    "site": "client-app-360c",
+    
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
